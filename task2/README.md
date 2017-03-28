@@ -17,10 +17,12 @@ Your program should calculate the frequency of k-tuples within a file.
 Input:
 
 ```
-AAAAAAA
+AAAB k=3
 ```
 
 Output:
 
 ```
+AAA
+AAB
 ```
